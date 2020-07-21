@@ -81,6 +81,18 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+feed:
+  type: atom
+  path: atom.xml
+  limit: 0
+  content: false
+  order_by: -date
+  autodiscovery: true
+
+sitemap:
+  path: sitemap.xml
+  rel: true
+
 ## Themes: https://hexo.io/themes/
 theme: even
 
