@@ -91,7 +91,6 @@ feed:
 
 sitemap:
   path: sitemap.xml
-  template: ./sitemap_template.xml
   rel: true
 
 ## Themes: https://hexo.io/themes/
