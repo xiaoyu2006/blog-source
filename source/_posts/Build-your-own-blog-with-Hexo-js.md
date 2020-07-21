@@ -3,7 +3,7 @@ title: Build your own blog with Hexo.js
 date: 2020-07-21 09:00:00
 ---
 
-Since lots of my classmates/friends have their own blogs, I decided to build one too with [Hexo.js](https://github.com/hexojs/hexo).
+Since lots of my classmates/friends have their own blogs, I decided to build one too with [Hexo.js](https://github.com/hexojs/hexo). This guide can teach you how to build yours with Hexo.js.
 
 # Install Hexo.js
 
