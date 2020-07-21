@@ -4,7 +4,7 @@ title: about
 
 # Who I am?
 
-**Yi**, NFLSer who like to mess around with code.
+**Yi**, NFLSer who likes messing around with code.
 
 # What will you see here?
 
