@@ -90,3 +90,4 @@ deploy:
   type: git
   repo: https://github.com/xiaoyu2006/xiaoyu2006.github.io.git
   branch: master
+  token: $GH_TOKEN

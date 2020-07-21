@@ -1,0 +1,11 @@
+language: node_js
+
+node_js: stable
+
+install:
+  - npm i
+
+script:
+  - hexo clean
+  - hexo generate
+  - hexo deploy
