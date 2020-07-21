@@ -88,6 +88,7 @@ theme: even
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/xiaoyu2006/xiaoyu2006.github.io.git
+  repo: git@github.com:xiaoyu2006/xiaoyu2006.github.io.git
   branch: master
+  username: xiaoyu2006
   token: $GH_TOKEN
