@@ -3,7 +3,7 @@ title: Make wheels with Autotools & C/C++
 date: 2020-08-08 22:00:00
 ---
 
-This how-to guide will teach you how to make wheels with Autotools & C/C++
+This how-to guide will teach you how to make wheels with Autotools & C/C++. Note that it isn't detailed, just to show you how the whole system works.
 
 # Introduction
 
@@ -115,7 +115,7 @@ Autotools is a complicated build system. We have to create several files.
 
 ### `configure.ac`
 
-`configure.ac` is a file for `Autoconf` to generate an `configure` script. It checks availability (in our example, if `gettimeofday()` and `time()` are available) and generates `Makefile` from `Makefile.in`, which will be generated later.
+**`configure.ac` is a file for `Autoconf` to generate an `configure` script. It checks availability (in our example, if `gettimeofday()` and `time()` are available) and generates `Makefile` from `Makefile.in`, which will be generated later.**
 
 Let's start with an `autoscan` GNU provided. It scans your code and generates an `configure.ac` automatically. Sadly, the generated file is useless without modifying.
 
