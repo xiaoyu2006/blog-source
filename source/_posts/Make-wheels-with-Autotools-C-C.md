@@ -346,4 +346,4 @@ Whoa, you did that! To use this lib in your own programs, just `#include <ts.h>`
 
 ## Product
 
-This demo's distribution can be found [here](https://github.com/xiaoyu2006/blog-source/tree/master/source/_posts/libts-0.1.tar.gz).
+This demo's distribution can be found [here](https://github.com/xiaoyu2006/blog-source/blob/master/source/_posts/libts-0.1.tar.gz).
