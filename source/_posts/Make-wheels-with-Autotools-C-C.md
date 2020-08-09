@@ -78,7 +78,7 @@ double getTimeDuration()
     double sec; /* Current time in second */
     double ret; /* Return value */
 
-    #ifdef HAVE_GETTIMEOFDAY /* This macro comes from config.h */
+    #if HAVE_GETTIMEOFDAY /* This macro comes from config.h */
 
     /* In some specific OS, gettimeofday() is available */
     /* See https://man7.org/linux/man-pages/man2/gettimeofday.2.html */
