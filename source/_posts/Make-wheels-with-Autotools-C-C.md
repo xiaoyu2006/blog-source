@@ -178,7 +178,7 @@ As you can see, it's smart to include `AC_CHECK_FUNCS([gettimeofday])`. This wil
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.69]) # 1
-AC_INIT([libts], [1.0], [user@example.com]) # 2
+AC_INIT([libts], [0.1], [username@example.com]) # 2
 AC_CONFIG_SRCDIR([ts.c]) # 3
 AC_CONFIG_HEADERS([config.h]) # 4
 
@@ -343,3 +343,7 @@ $ make dist
 ```
 
 Whoa, you did that! To use this lib in your own programs, just `#include <ts.h>` and link this library (`-Lts`)!
+
+## Product
+
+This demo's distribution can be found [here](https://github.com/xiaoyu2006/blog-source/tree/master/source/_posts/libts-0.1.tar.gz).
