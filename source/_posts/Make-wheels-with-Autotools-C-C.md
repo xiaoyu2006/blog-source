@@ -307,7 +307,7 @@ checkTS_SOURCES = test.c
 checkTS_LDFLAGS = libts.la
 ```
 
-Also, if you don't want to type the following commands again:
+Also, if you don't want to type the above commands again:
 
 ```bash
 $ autoreconf -i
