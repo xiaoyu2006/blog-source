@@ -105,9 +105,5 @@ deploy:
       url: https://github.com/xiaoyu2006/xiaoyu2006.github.io.git
       branch: master
       token: $GH_TOKEN
-    gitee:
-      url: https://gitee.com/xiaoyu2006/xiaoyu2006.gitee.io.git
-      branch: master
-      token: $GE_TOKEN
   name: xiaoyu2006
   email: 1783250036@qq.com
