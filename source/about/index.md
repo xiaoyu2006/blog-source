@@ -11,11 +11,10 @@ I'm Yi, a student who likes to mess around with code.
 ## Skills
 
 - Languages
-  - C
+  - C (Not professional)
   - C++ (Not professional)
-  - Python
-  - Swift
-  - JS (Maybe)
+  - Python (Not professional)
+  - Swift (Not professional)
 - Technology
   - iOS App Dev (Not professional)
   - C/C++ related stuff (Not professional)
@@ -31,15 +30,15 @@ I'm Yi, a student who likes to mess around with code.
 3. Python (+1 for PYPI.)
 4. Homebrew
 5. xkcd
-6. KSP & CS:GO & Stick Fight & Oxygen Not Included (?????)
+6. KSP & Stick Fight & Oxygen Not Included (?????)
 
 ### Dislikes
-1. JS (Messy.)
+1. JS (spec. npm) (messy)
 2. Web frontend (For no reasons.)
 3. Tencent & Baidu & 163 & etc.
 4. GFW
 
 ## Contacts
 - Mail: [1783250036@qq.com](mailto:1783250036@qq.com) (Checked every 10 days at most.)
-- Telegram: +86 17183312815
+- Telegram: [@xiaoyu2006](https://t.me/xiaoyu2006)
 - Steam: [@xkcd17](https://steamcommunity.com/profiles/76561199021640412/)
