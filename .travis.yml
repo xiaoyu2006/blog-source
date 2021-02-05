@@ -2,11 +2,9 @@ language: node_js
 
 node_js: stable
 
-cache:
-  npm: false
-
 install:
-  - npm i
+  - export LIBSASS_EXT="no"
+  - npm install
 
 script:
   - hexo clean
